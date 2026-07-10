@@ -9,7 +9,7 @@ import datetime
 import streamlit as st
 from groq import Groq
 
-MEMORY_FILE = 
+MEMORY_FILE = "user_memory.json"
 
 # ─── EMOTION DETECTION ───────────────────────────────────────────────────────
 
